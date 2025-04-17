@@ -25,3 +25,11 @@ Make sure you have Python installed. Then:
 
 ```bash
 python password_generator.py
+
+## OUTPUT
+![image](https://github.com/user-attachments/assets/f304bf76-cd7d-4377-947a-0efd34a114f7)
+
+![Screenshot 2025-04-17 114054](https://github.com/user-attachments/assets/2052fe02-85c8-4efa-81d8-b9ca0a2bb096)
+
+
+
